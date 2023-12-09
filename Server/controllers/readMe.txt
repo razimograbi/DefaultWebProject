@@ -1,0 +1,1 @@
+This Folder will hold all the methods that will be used in the routes, including middleware.

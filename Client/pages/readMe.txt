@@ -1,0 +1,1 @@
+This Folder will hold all the Pages of the website (html files and css and js)
